@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/insta-clone-frontend/static/css/main.7bb7f751.chunk.css",
+    "main.js": "/insta-clone-frontend/static/js/main.a43449f3.chunk.js",
+    "main.js.map": "/insta-clone-frontend/static/js/main.a43449f3.chunk.js.map",
+    "runtime-main.js": "/insta-clone-frontend/static/js/runtime-main.fae07628.js",
+    "runtime-main.js.map": "/insta-clone-frontend/static/js/runtime-main.fae07628.js.map",
+    "static/css/2.4be38407.chunk.css": "/insta-clone-frontend/static/css/2.4be38407.chunk.css",
+    "static/js/2.797dc7e3.chunk.js": "/insta-clone-frontend/static/js/2.797dc7e3.chunk.js",
+    "static/js/2.797dc7e3.chunk.js.map": "/insta-clone-frontend/static/js/2.797dc7e3.chunk.js.map",
+    "index.html": "/insta-clone-frontend/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/insta-clone-frontend/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.7bb7f751.chunk.css.map": "/insta-clone-frontend/static/css/main.7bb7f751.chunk.css.map",
+    "static/js/2.797dc7e3.chunk.js.LICENSE.txt": "/insta-clone-frontend/static/js/2.797dc7e3.chunk.js.LICENSE.txt",
+    "static/media/4th.73d17572.png": "/insta-clone-frontend/static/media/4th.73d17572.png",
+    "static/media/logo.svg.020b353f.png": "/insta-clone-frontend/static/media/logo.svg.020b353f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fae07628.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.797dc7e3.chunk.js",
+    "static/css/main.7bb7f751.chunk.css",
+    "static/js/main.a43449f3.chunk.js"
+  ]
+}
